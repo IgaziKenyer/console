@@ -4,7 +4,7 @@ title:  "Gamedev Journal"
 date:   2020-04-29 14:26:35 -0400
 categories: gamedev
 ---
-Con el proposito de no olvidar las soluciones de a los errores que hice cree este diario.
+Con el proposito de no olvidar las soluciones de los errores fuera yo a caer denuevo en lo mismo.
 Tambien con la interfaz mas simple posible para no ponerme a pensar en esas cosas.
 
 
