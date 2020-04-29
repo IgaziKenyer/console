@@ -1,10 +1,9 @@
-Second Floor
-First Floor
-Subterranean
-
-If on SecondFloor >> Ignore Walls of all Floors
-If on First Floor >> Ignore Walls of Subterranean
-------------------------------------
+﻿---
+layout: post
+title:  "Floor Manager"
+date:   2020-04-29 16:55:35 -0400
+categories: [gamedev, danmakui]
+---
 Floor Manager
 Si estas en el primer piso, las balas deben chocar contra las paredes que se elevan al segundo piso.
 Si estas en el segundo piso, las balas no deben chocar contra las paredes que se elevan al segundo piso.
@@ -30,5 +29,3 @@ Conclusion
 Cuando el player esta en el primer piso, las murallas que se elevan al segundo piso tienen el [Tag] [Muralla] por lo tanto las balas chocan y explotan.
 Cuando el player esta en el segundo piso, [FloorControl] detecta eso y le quita el [Tag] [Muralla] Esto no les quita su propiedad de murallas con otras cosas que no sean balas asi que las balas pasan y el jugador no baja del segundo piso almenos que sea por la escalera.
 
-
-https://github.com/b2a3e8/jekyll-theme-console.git
