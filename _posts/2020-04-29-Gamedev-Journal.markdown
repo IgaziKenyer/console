@@ -12,5 +12,5 @@ Tambien con la interfaz mas simple posible para no ponerme a pensar en esas cosa
 Console.WriteLine("Hello World");
 {% endhighlight %}
 
-[Igazi twitter][Igazi-twitter]
-[Igazi-twitter]: https://twitter.com/IgaziKenyer
+[Igazi twitter][igazi-twitter]
+[igazi-twitter]: https://twitter.com/IgaziKenyer
