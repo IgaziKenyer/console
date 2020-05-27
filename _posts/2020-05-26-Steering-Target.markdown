@@ -25,7 +25,7 @@ Entonces hice lo siguiente
 
 Escribiendolo en retrospectiva suena bastante simple, pero de lo que me enorgullezco es que no hay tutorial tan especifico para este problema que pudiera haber resuelto el problema. 
 
-Aunque quizas entender que significa {% highlight C# %} Vector3{% endhighlight %} o {% highlight C# %}Transform{% endhighlight %} hubiera ayudado.
+Aunque quizas entender que significa Vector3 o Transformhubiera ayudado.
 
 
 {% highlight C# %}
